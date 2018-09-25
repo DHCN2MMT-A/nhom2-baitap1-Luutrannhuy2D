@@ -16,9 +16,13 @@
   
 #main img{
  padding-left: 200px;
+ width:1000px;
+    height:400px;
 }
-#main iframer{
+#main iframe{
   padding-left: 200px;
+  width:800px;
+  height:400px;
  }
 #main p{
   padding-left: 50px;
